@@ -12,6 +12,7 @@ func main() {
 	}
 	bar()
 	operator()
+	keyword()
 }
 
 func foo() {
