@@ -11,9 +11,10 @@ var n int
 //and then assign the value of that type to the variable
 
 func zerotype() {
-	fmt.Println("Printing the value of y", s)
+	fmt.Println("Printing the value of s", s)
 	fmt.Printf("%T\n", s)
 	s = "Bond, James Bond"
+	fmt.Println("Printing the value of s", s)
 
 	fmt.Println(n)
 	fmt.Printf("%T\n", n)
