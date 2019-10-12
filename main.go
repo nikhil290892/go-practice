@@ -13,6 +13,7 @@ func main() {
 	bar()
 	operator()
 	keyword()
+	zerotype()
 }
 
 func foo() {
