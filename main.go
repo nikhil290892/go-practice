@@ -15,7 +15,6 @@ func main() {
 	keyword()
 	zerotype()
 	vartype()
-	booleancheck()
 }
 
 func foo() {
