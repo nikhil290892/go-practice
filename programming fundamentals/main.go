@@ -7,4 +7,7 @@ func main() {
 	str()
 	constant()
 	iotacheck()
+	bitshift()
+	size()
+	iotasize()
 }
