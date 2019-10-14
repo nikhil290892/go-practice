@@ -5,4 +5,5 @@ func main() {
 	intcheck()
 	run()
 	str()
+	constant()
 }
