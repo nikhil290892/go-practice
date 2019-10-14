@@ -14,6 +14,7 @@ func main() {
 	operator()
 	keyword()
 	zerotype()
+	vartype()
 }
 
 func foo() {
