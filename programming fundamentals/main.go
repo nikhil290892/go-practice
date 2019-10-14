@@ -6,4 +6,5 @@ func main() {
 	run()
 	str()
 	constant()
+	iotacheck()
 }
