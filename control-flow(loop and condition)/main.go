@@ -9,4 +9,5 @@ func main() {
 	printascii()
 	condition()
 	conditioninit()
+	ifelseifelse()
 }
