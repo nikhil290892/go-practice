@@ -7,4 +7,6 @@ func main() {
 	fornot()
 	bnc()
 	printascii()
+	condition()
+	conditioninit()
 }
