@@ -10,3 +10,14 @@ func forst() {
 	}
 	fmt.Println(a)
 }
+func fornot() {
+	c := 1
+	for {
+		if c > 9 {
+			break
+		}
+		fmt.Println(c)
+		c++
+	}
+	fmt.Println("done.")
+}
