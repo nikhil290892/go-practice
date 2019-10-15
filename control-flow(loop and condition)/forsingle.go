@@ -10,7 +10,7 @@ func forst() {
 	}
 	fmt.Println(a)
 }
-func fornot() {
+func fornot() { //This is pretty much like the for in C language but not same and implements while within it
 	c := 1
 	for {
 		if c > 9 {
