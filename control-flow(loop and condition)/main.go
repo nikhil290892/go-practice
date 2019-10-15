@@ -10,4 +10,5 @@ func main() {
 	condition()
 	conditioninit()
 	ifelseifelse()
+	lcm()
 }
