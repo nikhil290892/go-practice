@@ -14,4 +14,10 @@ func slicemap() {
 	v, ok := m["Shawn"] //check if the key exists as this index in the map
 	fmt.Println(v)
 	fmt.Println(ok)
+	//to add a new value to the map
+	m["Phil"] = 38
+	for k, v := range m {
+		fmt.Println(k, v)
+	}
+	fmt.Println(m)
 }
