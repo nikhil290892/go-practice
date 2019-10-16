@@ -20,4 +20,7 @@ func slicemap() {
 		fmt.Println(k, v)
 	}
 	fmt.Println(m)
+	//delete an entry in map
+	delete(m, "James")
+	fmt.Println(m)
 }
